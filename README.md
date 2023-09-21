@@ -2,6 +2,6 @@
 Gestión de residuos , una semana para terminar
 ---
 ### Amazing link:
-[visit our website](https://soylin.github.io/Proyecto01-CSS/)
+[visit our website](https://soylin.github.io/Proyecto01-CSS/Proyecto01/h1.html)
 
 
