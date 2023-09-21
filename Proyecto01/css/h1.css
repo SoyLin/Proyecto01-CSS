@@ -1,4 +1,9 @@
 header{
     text-align: center;
-    font-size: larger;
+    font-size: 3em;
+}
+#contenedores{
+    width: 20%;
+    height: 20%;
+    border: black,1em;
 }
