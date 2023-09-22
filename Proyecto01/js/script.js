@@ -1,4 +1,4 @@
-document.addEventListener('load', function() {
+document.addEventListener('DOMContentLoaded', function() {
     const contenedores = document.getElementById("contenedores");       
     contenedores.addEventListener('click', function(){
         window.location.href="../Proyecto01/contenedores/contenedores.html";
