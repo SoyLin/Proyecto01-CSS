@@ -20,6 +20,12 @@ header{
     text-align: center;
     padding: 1rem;
     border: 1px solid red;
+
+    display: flex;
+    justify-content: space-around;
+}
+header h1{
+    color: wheat;
 }
 button {
     padding: 0.8em 1.8em;
