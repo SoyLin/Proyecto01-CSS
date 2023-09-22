@@ -4,3 +4,6 @@ document.addEventListener('load', function() {
         window.location.href="../contenedores/contenedores.html";
     });
 });
+
+window.onclick(
+window.location.href="../contenedores/contenedores.html")
