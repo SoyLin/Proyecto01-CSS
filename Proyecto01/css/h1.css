@@ -11,8 +11,6 @@ body{
     height: 100vh;
     width: 100vw;
     background: rgb(143, 194, 218);
-    display: flex;
-    justify-content: space-around;
 }
 header{
     text-shadow: 2px 2px 2px #000000;
