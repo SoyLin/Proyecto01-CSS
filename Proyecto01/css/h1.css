@@ -105,3 +105,9 @@ button:hover {
     background-color: salmon;
 
 }
+#contenedorGrande{
+width: 100%;
+heigth: 80%;
+display: flex;
+justify-content: space-around;
+}
