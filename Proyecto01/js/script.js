@@ -13,3 +13,11 @@ document.addEventListener('DOMContentLoaded', function() {
         window.location.href="../Proyecto01/reciclaje/reciclaje.html";
     });
 });
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    const contenedores = document.getElementById("curiosidades");       
+    contenedores.addEventListener('click', function(){
+        window.location.href="../Proyecto01/curiosidades/curiosidades.html";
+    });
+});
