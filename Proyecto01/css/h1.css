@@ -14,6 +14,6 @@ header{
 #contenedores{
     width: 20%;
     height: 20%;
-    border: black,1em;
+    border: black,1em,solid;
     background-color: aquamarine;
 }
