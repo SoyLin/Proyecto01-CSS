@@ -107,7 +107,7 @@ button:hover {
 }
 #contenedorGrande{
 width: 100%;
-heigth: 80%;
+heigth: 100px;
 display: flex;
 justify-content: space-around;
 }
