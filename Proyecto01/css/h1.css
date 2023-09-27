@@ -26,6 +26,7 @@ header{
 header h1{
     color: wheat;
     font-family: 'Croissant One', cursive;
+    font-size: 40px;
 }
 button {
     padding: 0.8em 1.8em;
