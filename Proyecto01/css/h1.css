@@ -124,6 +124,5 @@ aside{
 }
 #forms{
     display: flex;
-    justify-content: space-around;
-    background-color: #000000;
+    justify-content: space-between;
 }
