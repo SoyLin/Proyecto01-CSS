@@ -72,14 +72,6 @@ button:hover {
 
 
 
-
-
-
-
-
-
-
-
 #contenedores{
     display: flex;
     justify-content: center;
@@ -93,6 +85,7 @@ button:hover {
     font-family: 'Dela Gothic One', cursive;
     font-size: xx-large;
     animation: title-color infinite 5s;
+    cursor: pointer;
 }
 @keyframes title-color {
     0% {color: rgb(111, 221, 234);}
@@ -130,6 +123,7 @@ button:hover {
     font-family: 'Dela Gothic One', cursive;
     font-size: xx-large;
     animation: title-color infinite 5s;
+    cursor: pointer;
 }
 #curiosidades{
     display: flex;
@@ -142,6 +136,7 @@ button:hover {
     font-family: 'Dela Gothic One', cursive;
     font-size: xx-large;
     animation: title-color infinite 5s;
+    cursor: pointer;
 }
 #contenedorGrande{
 

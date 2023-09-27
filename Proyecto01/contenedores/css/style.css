@@ -21,7 +21,11 @@ header{
     top:0;
     width: 100vw;
 }
-
+.btn-inicio{
+    position: absolute;
+    left: 0;
+    padding: 10px;
+}
 header h1{
     color: wheat;
     font-family: 'Croissant One', cursive;
