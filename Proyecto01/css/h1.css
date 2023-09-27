@@ -122,3 +122,7 @@ aside{
     width: 100%;
 
 }
+#forms{
+    display: flex;
+    justify-content: space-around;
+}
