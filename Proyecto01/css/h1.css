@@ -25,6 +25,8 @@ header{
 }
 header h1{
     color: wheat;
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Croissant One', cursive;
 }
 button {
     padding: 0.8em 1.8em;
@@ -112,4 +114,8 @@ height: 60%;
 display: flex;
 justify-content: space-around;
 align-items:center;
+}
+aside{
+    width: 100%;
+
 }
