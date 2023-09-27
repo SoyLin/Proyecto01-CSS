@@ -84,8 +84,8 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 20%;
-    height: 40%;
+    width: 30%;
+    height: 50%;
     border: 2px solid black ;
     background-color: aquamarine;
     float: left;
@@ -96,8 +96,8 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 20%;
-    height: 40%;
+    width: 30%;
+    height: 50%;
     border: 2px solid black ;
     background-color: blueviolet;
     float: left;
@@ -108,8 +108,8 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 20%;
-    height: 40%;
+    width: 30%;
+    height: 50%;
     border: 2px solid black ;
     background-color: salmon;
     font-family: 'Croissant One', cursive;
