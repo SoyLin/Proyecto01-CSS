@@ -16,6 +16,10 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: sticky; 
+    z-index: 100;
+    top:0;
+    width: 100vw;
 }
 
 header h1{
