@@ -90,9 +90,33 @@ button:hover {
     background-color: aquamarine;
     float: left;
     clear: right;
-    font-family: 'Croissant One', cursive;
+    font-family: 'Dela Gothic One', cursive;
     font-size: xx-large;
+    animation: title-color infinite 5s;
 }
+@keyframes title-color {
+    0% {color: rgb(111, 221, 234);}
+    5%{color: rgb(16, 198, 223);}
+    10%{color: rgb(53, 128, 194);}
+    15%{color: rgb(35, 82, 236);}
+    20%{color: rgb(77, 24, 202);}
+    25%{color: rebeccapurple;}
+    30%{color: rgb(152, 19, 214);}
+    35%{color: rgb(207, 18, 224);}
+    40%{color: rgb(235, 15, 198);}
+    45%{color:rgb(221, 64, 111)}
+    50%{color:rgb(221, 42, 102)}
+    55%{color:rgb(207, 55, 68)}
+    60%{color:rgb(236, 46, 46)}
+    65%{color:rgb(194, 69, 53)}
+    70%{color:rgb(230, 122, 60)}
+    75%{color:rgb(214, 186, 58)}
+    80%{color:rgb(223, 172, 78)}
+    85%{color:rgb(224, 214, 74)}
+    90%{color:rgb(161, 236, 63)}
+    95%{color:rgb(58, 233, 102)}
+    100%{color:rgb(67, 224, 128)}
+    }
 #reciclaje{
     display: flex;
     justify-content: center;
@@ -103,8 +127,9 @@ button:hover {
     background-color: blueviolet;
     float: left;
     clear: right;
-    font-family: 'Croissant One', cursive;
+    font-family: 'Dela Gothic One', cursive;
     font-size: xx-large;
+    animation: title-color infinite 5s;
 }
 #curiosidades{
     display: flex;
@@ -114,8 +139,9 @@ button:hover {
     height: 50%;
     border: 2px solid black ;
     background-color: salmon;
-    font-family: 'Croissant One', cursive;
+    font-family: 'Dela Gothic One', cursive;
     font-size: xx-large;
+    animation: title-color infinite 5s;
 }
 #contenedorGrande{
 
@@ -128,6 +154,7 @@ align-items:center;
 aside{
     width: 100%;
     height: 14%;
+    background-color: darkcyan;
 }
 #forms{
     display: flex;
