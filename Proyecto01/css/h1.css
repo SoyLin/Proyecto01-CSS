@@ -85,6 +85,7 @@ button:hover {
     background-color: aquamarine;
     float: left;
     clear: right;
+    font-family: 'Croissant One', cursive;
 }
 #reciclaje{
     display: flex;
@@ -96,6 +97,7 @@ button:hover {
     background-color: blueviolet;
     float: left;
     clear: right;
+    font-family: 'Croissant One', cursive;
 }
 #curiosidades{
     display: flex;
@@ -105,6 +107,7 @@ button:hover {
     height: 40%;
     border: 2px solid black ;
     background-color: salmon;
+    font-family: 'Croissant One', cursive;
 
 }
 #contenedorGrande{
