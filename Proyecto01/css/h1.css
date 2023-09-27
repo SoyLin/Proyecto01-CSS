@@ -18,8 +18,7 @@ header{
     background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(9,9,121,1) 35%, rgba(6,44,166,1) 65%, rgba(0,212,255,0) 100%);
     text-align: center;
     padding: 1rem;
-    border: 1px solid red;
-
+    border: 1px solid blueviolet;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -34,7 +33,8 @@ header img{
     height: 10%;
 }
 button {
-    padding: 0.8em 1.8em;
+    width: 200px;
+    height: 50px;
     border: 2px solid salmon;
     position: relative;
     overflow: hidden;
