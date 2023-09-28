@@ -1,0 +1,38 @@
+body{
+    background-image: url("../imagen/fondo4.jpg");
+}
+#centrado{
+    display: flex;
+    justify-content: center;
+}
+.imagen{
+    width: 100%;
+    height: 20%;
+}
+
+.frase{
+    width: 65%;
+    height: 10%;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    font-size: 150%;
+    text-align: center;
+    margin-left: 18%;
+}
+
+.si{
+    width: 30%;
+    height: 30%;
+    float: left;
+    padding-left: 30%;
+    font-size: 150%;
+}
+.no{
+    width: 30%;
+    height: 30%;
+    float: left;
+    padding-left: 3%;
+    font-size: 150%;
+}
+ul{
+    padding-left: 1%;
+}
