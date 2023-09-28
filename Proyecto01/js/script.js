@@ -25,3 +25,11 @@ document.addEventListener('DOMContentLoaded', function() {
         window.location.href="../Proyecto01/formulario/formularioLogin.html";
     });
 });
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    const contenedores = document.getElementById("btn-register");       
+    contenedores.addEventListener('click', function(){
+        window.location.href="../Proyecto01/formulario/formularioRegister.html";
+    });
+});
