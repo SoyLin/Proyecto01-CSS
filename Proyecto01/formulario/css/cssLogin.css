@@ -4,9 +4,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url();
+    background-image: url(../img/pattern\ basura\ 1.jpg);
+    background-repeat: repeat;
 }
 #cont{
-    height: 100%;
-    text-align: center;
+    background-color: antiquewhite;
+    height: 70%;
+    display: flex;
+    flex-wrap: wrap;
 }
+
