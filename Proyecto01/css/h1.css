@@ -73,7 +73,7 @@ button:hover {
 
 
 
-#contenedores{
+.contenedores{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -111,7 +111,7 @@ button:hover {
     95%{color:rgb(58, 233, 102)}
     100%{color:rgb(67, 224, 128)}
     }
-#reciclaje{
+/* #reciclaje{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -138,7 +138,7 @@ button:hover {
     font-size: xx-large;
     animation: title-color infinite 5s;
     cursor: pointer;
-}
+} */
 #contenedorGrande{
 
 width: 100%;

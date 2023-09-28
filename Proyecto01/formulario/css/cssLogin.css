@@ -11,6 +11,14 @@ body{
     background-color: antiquewhite;
     height: 70%;
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
 }
+#titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    clear: right;
+}
+#formulario{
 
+}
