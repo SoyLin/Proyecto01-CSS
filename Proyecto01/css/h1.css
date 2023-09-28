@@ -46,6 +46,7 @@ button {
     z-index: 1;
     font-family: inherit;
     color: salmon;
+    cursor: pointer;
 }
    
 button::before {
