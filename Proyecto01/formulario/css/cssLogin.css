@@ -14,11 +14,14 @@ body{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    border: none;
+    border-radius: 20px;
 }
 #titulo{
     font-family: 'Salsa', cursive;
     font-size: x-large;
     clear: right;
+    height: 20%;
 }
 #formulario{
     font-family: 'Dela Gothic One', cursive;
