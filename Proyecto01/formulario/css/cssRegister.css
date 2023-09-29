@@ -1,4 +1,24 @@
 body{
+    height: 100vh;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
     background-image: url(../img/pattern\ basura.png);
     background-repeat: repeat;
+}
+#divGrande{
+    height: 70%;
+    width:70%;
+    background-color: rgb(64, 63, 71);
+    color: antiquewhite;
+    text-align: center;
+}
+#titulo{
+    clear: right;
+    background-color: black;
+}
+#formulario{
+    background-color: blueviolet;
+    height:60%;
+    font-size: x-large;
 }
