@@ -11,21 +11,25 @@ body{
     width:70%;
     background-color: rgb(64, 63, 71);
     color: antiquewhite;
-    
+    border: none;
+    border-radius: 20px;
    
 }
 #titulo{
+    font-size: 23px;
     font-family: 'Keania One', cursive;
     text-align: center;
 }
 #formulario{
-    margin: auto;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
     background-color: blueviolet;
     height:60%;
     width: 80%;
     font-size: x-large;
     border: none;
     border-radius: 20px;
-    
 }
