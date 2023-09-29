@@ -38,4 +38,14 @@ body{
     border: none;
     border-radius: 20px;
     width: 80%;
+    background-color: rgba(240, 5, 240, 0.836);
+    color: antiquewhite;
+    font-size: x-large;
+}
+#boton{
+    border: none;
+    background-color: rgba(240, 5, 240, 0.836);
+}
+#boton:active{
+    background-color:rgb(117, 194, 54);
 }
