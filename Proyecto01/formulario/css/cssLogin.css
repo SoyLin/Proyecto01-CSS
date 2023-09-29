@@ -10,6 +10,7 @@ body{
 #cont{
     background-color: antiquewhite;
     height: 70%;
+    width: 70%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -23,7 +24,6 @@ body{
     font-family: 'Dela Gothic One', cursive;
     height: 275px;
     font-size: xx-large;
-    background-color: blue;
     margin-bottom: 100%;
 }
 form{
