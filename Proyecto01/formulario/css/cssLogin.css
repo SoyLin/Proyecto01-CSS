@@ -29,3 +29,10 @@ body{
 form{
     width: 110%;
 }
+.input{
+    width:48% ;    
+    font-size: x-large;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 10px;
+}
