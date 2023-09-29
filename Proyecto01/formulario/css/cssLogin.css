@@ -22,9 +22,9 @@ body{
 }
 #formulario{
     font-family: 'Dela Gothic One', cursive;
-    height: 275px;
-    font-size: xx-large;
-    margin-bottom: 100%;
+    font-size: 30px;
+    display: flex;
+    text-align: center;
 }
 form{
     width: 110%;
@@ -35,4 +35,14 @@ form{
     background-color: goldenrod;
     border: none;
     border-radius: 10px;
+}
+#boton{
+    width:28% ;    
+    font-size: x-large;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 10px;
+}
+#boton:active{
+    background-color: rgb(187, 82, 187);
 }
