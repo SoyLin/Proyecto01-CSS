@@ -16,9 +16,16 @@ body{
 }
 #titulo{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: xx-large;
+    font-size: x-large;
     clear: right;
 }
 #formulario{
     font-family: 'Dela Gothic One', cursive;
+    height: 275px;
+    font-size: xx-large;
+    background-color: blue;
+    margin-bottom: 100%;
+}
+form{
+    width: 110%;
 }
