@@ -32,9 +32,10 @@ body{
     font-size: x-large;
     border: none;
     border-radius: 20px;
+    font-family: 'Galindo', cursive;
 }
 .input{
     border: none;
     border-radius: 20px;
-    width: fit-content;
+    width: 80%;
 }
