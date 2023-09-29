@@ -34,5 +34,7 @@ body{
     border-radius: 20px;
 }
 .input{
-    
+    border: none;
+    border-radius: 20px;
+    width: fit-content;
 }
