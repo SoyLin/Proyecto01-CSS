@@ -9,6 +9,7 @@ body{
     height: 50%;
     width: 50%;
     border: 1px solid black;
+    margin: auto;
 }
 #tablaReciclaje td{
     border: 1px solid black;
