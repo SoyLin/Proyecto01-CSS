@@ -5,15 +5,6 @@ body{
     background-repeat: repeat;
     padding: none;
 }
-#tablaReciclaje{
-    height: 50%;
-    width: 50%;
-    border: 1px solid black;
-    margin: auto;
-}
-#tablaReciclaje td{
-    border: 1px solid black;
-}
 .texto{
     font-size: x-large;
     font-family: 'Jost', sans-serif;
@@ -31,6 +22,8 @@ body{
     flex-direction: column;
     justify-content: center;
 }
+
+
 #primeraFila td{
     background-color: rgba(32, 17, 218,0.3);
 }
@@ -39,4 +32,24 @@ body{
 }
 #primeraFila th{
     background-color: rgb(241, 196, 15);
+}
+#tablaReciclaje{
+    height: 50%;
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+    
+}
+@keyframes animTabla{
+    0%{box-shadow:4em 4em 8px 3em rgba(0, 0, 0, 0.0);}
+    20%{box-shadow:4em 4em 8px 3em rgba(0, 0, 0, 0.2);}
+    40%{box-shadow:4em 4em 8px 3em rgba(0, 0, 0, 0.4);}
+    60%{box-shadow:4em 4em 8px 3em rgba(0, 0, 0, 0.6);}
+    75%{box-shadow:4em 4em 8px 3em rgba(0, 0, 0, 0.7);}
+}
+#tablaReciclaje:hover{
+    animation: animTabla 3s ;
+}
+#tablaReciclaje td{
+    border: 1px solid black;
 }
