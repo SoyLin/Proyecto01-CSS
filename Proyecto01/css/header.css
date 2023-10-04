@@ -2,7 +2,7 @@
 header{
     text-shadow: 2px 2px 2px #000000;
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(9,9,121,1) 35%, rgba(6,44,166,1) 65%, rgba(0,212,255,0) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(9,9,121,1) 15%, rgba(6,44,166,1) 85%, rgba(0,212,255,0) 100%);
     text-align: center;
     padding: 1rem;
     border: 1px solid blueviolet;
