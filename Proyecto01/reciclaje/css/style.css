@@ -15,6 +15,7 @@ body{
 }
 .texto{
     font-size: x-large;
+    font-family: 'Jost', sans-serif;
 }
 #titulo{
     margin-top: -20px;
