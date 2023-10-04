@@ -12,3 +12,9 @@ body{
 #tablaReciclaje td{
     border: 1px solid black;
 }
+.texto{
+    font-size: x-large;
+}
+#titulo{
+    background: linear-gradient(90deg, rgb(46, 221, 69)0%,rgb(96, 216, 134) 20%, rgb(97, 196, 151) 40%, rgb(67, 135, 134) 60%, rgb(27, 105, 128) 80%);
+}
