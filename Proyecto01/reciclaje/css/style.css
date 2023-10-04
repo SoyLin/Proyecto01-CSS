@@ -31,3 +31,12 @@ body{
     flex-direction: column;
     justify-content: center;
 }
+#primeraFila td{
+    background-color: rgba(32, 17, 218,0.3);
+}
+#primeraFila td:hover{
+    background-color: rgba(32, 17, 218,0.6);
+}
+#primeraFila th{
+    background-color: rgb(241, 196, 15);
+}
