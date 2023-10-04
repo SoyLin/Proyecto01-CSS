@@ -1,0 +1,59 @@
+
+header{
+    text-shadow: 2px 2px 2px #000000;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(9,9,121,1) 35%, rgba(6,44,166,1) 65%, rgba(0,212,255,0) 100%);
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid blueviolet;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+header h1{
+    color: wheat;
+    font-family: 'Croissant One', cursive;
+    font-size: 60px;
+}
+header img{
+    width: 10%;
+    height: 10%;
+}
+button {
+    width: 200px;
+    height: 50px;
+    border: 2px solid salmon;
+    position: relative;
+    overflow: hidden;
+    background-color: transparent;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: .3s;
+    z-index: 1;
+    font-family: inherit;
+    color: salmon;
+    cursor: pointer;
+}
+   
+button::before {
+    content: '';
+    width: 0;
+    height: 300%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+    background: salmon;
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+   
+button:hover::before {
+    width: 105%;
+}
+   
+button:hover {
+    color: #111;
+}
