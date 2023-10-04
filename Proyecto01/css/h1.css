@@ -126,9 +126,10 @@ button:hover {
     animation: title-color infinite 5s;
     cursor: pointer;
 }
-#curiosidades{
+#tratamiento{
     display: flex;
     justify-content: center;
+    text-align: center;
     align-items: center;
     width: 30%;
     height: 50%;
