@@ -1,7 +1,9 @@
-#centrado{
-    display: flex;
-    justify-content: center;
+.volver{
+    float: left;
+    width: 8%;
+    height: 20%;
 }
+
 .imagen{ 
     width: 70%;
     height: 20%;
@@ -9,6 +11,8 @@
 }
 
 .frase{
+    display: flex;
+    justify-content: center;
     width: 65%;
     height: 10%;
     /*font-family: Arial, Helvetica, sans-serif;*/
