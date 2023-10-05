@@ -1,0 +1,42 @@
+body{
+    height: auto;
+}
+.volver{
+    float: left;
+    width: 8%;
+    height: 20%;
+}
+
+.imagen{ 
+    width: 70%;
+    height: 20%;
+    margin-left: 15%;
+}
+span{
+    background-color: white;
+}
+.frase{
+    display: flex;
+    justify-content: center;
+    width: 65%;
+    height: 10%;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    font-family: 'Jost', sans-serif;
+    font-size: 150%;
+    text-align: center;
+    margin-left: 18%;
+
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 150%;
+    font-weight: bold;
+}
+.mapa{
+    width: 40vw;
+    height: 390px; 
+    margin: 0 auto;
+
+}
