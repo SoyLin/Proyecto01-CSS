@@ -2,9 +2,10 @@
     display: flex;
     justify-content: center;
 }
-.imagen{
-    width: 100%;
+.imagen{ 
+    width: 70%;
     height: 20%;
+    margin-left: 15%;
 }
 
 .frase{
